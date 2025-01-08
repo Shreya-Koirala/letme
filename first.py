@@ -1,0 +1,1 @@
+print("laa hai ta")
